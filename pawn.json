@@ -5,7 +5,7 @@
 	"output": "test.amx",
 	"dependencies": [
 		"sampctl/samp-stdlib",
-		"Zeex/samp-plugin-crashdetect:v4.19"
+		"AmyrAhmady/samp-plugin-crashdetect:v4.22"
 	],
 	"dev_dependencies": [
 		"pawn-lang/YSI-Includes"
